@@ -1,7 +1,7 @@
 ﻿CREATE TABLE [dbo].[Enderecos]
 (
 	[ClienteID] UNIQUEIDENTIFIER NOT NULL PRIMARY KEY, 
-    [EnderecoID] UNIQUEIDENTIFIER NULL, 
+    [EnderecoID] UNIQUEIDENTIFIER NOT NULL, 
     [Rua] VARCHAR(255) NULL, 
     [Cidade] VARCHAR(255) NULL, 
     [Estado] VARCHAR(255) NULL,
