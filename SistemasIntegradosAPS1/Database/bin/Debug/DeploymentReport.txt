@@ -1,0 +1,23 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Clientes] (Table)
+       [dbo].[DetalhesPedido] (Table)
+       [dbo].[Enderecos] (Table)
+       [dbo].[Pedidos] (Table)
+       [dbo].[Produtos] (Table)
+       [dbo].[FK_DetalhesPedido_Pedidos] (Foreign Key)
+       [dbo].[FK_DetalhesPedido_Produtos] (Foreign Key)
+       [dbo].[FK_Enderecos_Clientes] (Foreign Key)
+       [dbo].[FK_Pedidos_Clientes] (Foreign Key)
+
+** Supporting actions

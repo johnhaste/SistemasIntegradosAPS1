@@ -276,9 +276,9 @@
     <Content Include="Scripts\jquery-1.10.2.min.map" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Database\Database.sqlproj">
-      <Project>{5d4bcfcf-b350-48f7-8bdc-660dacf664bd}</Project>
-      <Name>Database</Name>
+    <ProjectReference Include="..\Model\Model.csproj">
+      <Project>{5a461562-887a-4fb3-b0fe-a1b1d0cfb32d}</Project>
+      <Name>Model</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>

@@ -1,8 +1,4 @@
 C:\Users\John Haste\source\repos\SistemasIntegradosAPS1\SistemasIntegradosAPS1\Database\bin\Debug\Database.dacpac
-C:\Users\John Haste\source\repos\SistemasIntegradosAPS1\SistemasIntegradosAPS1\Database\obj\Debug\Model.xml
-C:\Users\John Haste\source\repos\SistemasIntegradosAPS1\SistemasIntegradosAPS1\Database\obj\Debug\refactor.xml
-C:\Users\John Haste\source\repos\SistemasIntegradosAPS1\SistemasIntegradosAPS1\Database\obj\Debug\postdeploy.sql
-C:\Users\John Haste\source\repos\SistemasIntegradosAPS1\SistemasIntegradosAPS1\Database\obj\Debug\predeploy.sql
 C:\Users\John Haste\source\repos\SistemasIntegradosAPS1\SistemasIntegradosAPS1\Database\obj\Debug\Database.dll
 C:\Users\John Haste\source\repos\SistemasIntegradosAPS1\SistemasIntegradosAPS1\Database\obj\Debug\Database.pdb
 C:\Users\John Haste\source\repos\SistemasIntegradosAPS1\SistemasIntegradosAPS1\Database\bin\Debug\Database.dll
