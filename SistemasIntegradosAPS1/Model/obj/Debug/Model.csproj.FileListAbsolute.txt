@@ -1,0 +1,13 @@
+C:\Users\John Haste\source\repos\SistemasIntegradosAPS1\SistemasIntegradosAPS1\Model\bin\Debug\aspnet-Web-20180323050559.mdf
+C:\Users\John Haste\source\repos\SistemasIntegradosAPS1\SistemasIntegradosAPS1\Model\bin\Debug\aspnet-Web-20180323050559_log.ldf
+C:\Users\John Haste\source\repos\SistemasIntegradosAPS1\SistemasIntegradosAPS1\Model\bin\Debug\Model.dll.config
+C:\Users\John Haste\source\repos\SistemasIntegradosAPS1\SistemasIntegradosAPS1\Model\bin\Debug\Model.dll
+C:\Users\John Haste\source\repos\SistemasIntegradosAPS1\SistemasIntegradosAPS1\Model\bin\Debug\Model.pdb
+C:\Users\John Haste\source\repos\SistemasIntegradosAPS1\SistemasIntegradosAPS1\Model\bin\Debug\EntityFramework.dll
+C:\Users\John Haste\source\repos\SistemasIntegradosAPS1\SistemasIntegradosAPS1\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\John Haste\source\repos\SistemasIntegradosAPS1\SistemasIntegradosAPS1\Model\bin\Debug\EntityFramework.xml
+C:\Users\John Haste\source\repos\SistemasIntegradosAPS1\SistemasIntegradosAPS1\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\John Haste\source\repos\SistemasIntegradosAPS1\SistemasIntegradosAPS1\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\John Haste\source\repos\SistemasIntegradosAPS1\SistemasIntegradosAPS1\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\John Haste\source\repos\SistemasIntegradosAPS1\SistemasIntegradosAPS1\Model\obj\Debug\Model.dll
+C:\Users\John Haste\source\repos\SistemasIntegradosAPS1\SistemasIntegradosAPS1\Model\obj\Debug\Model.pdb

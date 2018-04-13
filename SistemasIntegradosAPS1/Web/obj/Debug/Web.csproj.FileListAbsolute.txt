@@ -69,3 +69,8 @@ C:\Users\John Haste\source\repos\SistemasIntegradosAPS1\SistemasIntegradosAPS1\W
 C:\Users\John Haste\source\repos\SistemasIntegradosAPS1\SistemasIntegradosAPS1\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
 C:\Users\John Haste\source\repos\SistemasIntegradosAPS1\SistemasIntegradosAPS1\Web\obj\Debug\Web.dll
 C:\Users\John Haste\source\repos\SistemasIntegradosAPS1\SistemasIntegradosAPS1\Web\obj\Debug\Web.pdb
+C:\Users\John Haste\source\repos\SistemasIntegradosAPS1\SistemasIntegradosAPS1\Web\bin\aspnet-Web-20180323050559.mdf
+C:\Users\John Haste\source\repos\SistemasIntegradosAPS1\SistemasIntegradosAPS1\Web\bin\aspnet-Web-20180323050559_log.ldf
+C:\Users\John Haste\source\repos\SistemasIntegradosAPS1\SistemasIntegradosAPS1\Web\bin\Model.dll
+C:\Users\John Haste\source\repos\SistemasIntegradosAPS1\SistemasIntegradosAPS1\Web\bin\Model.pdb
+C:\Users\John Haste\source\repos\SistemasIntegradosAPS1\SistemasIntegradosAPS1\Web\bin\Model.dll.config
